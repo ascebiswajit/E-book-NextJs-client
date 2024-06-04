@@ -20,6 +20,8 @@ export default async function Home() {
   // const books = await response.json();
   // console.log(books)
   // we using data cacheing so do not use props
+
+  //this featcher is called component steaming
   return (
     <>
       <div>
